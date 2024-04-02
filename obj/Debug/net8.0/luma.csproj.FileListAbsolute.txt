@@ -1,0 +1,17 @@
+C:\Users\raijo\Documents\luma\bin\Debug\net8.0\luma.exe
+C:\Users\raijo\Documents\luma\bin\Debug\net8.0\luma.deps.json
+C:\Users\raijo\Documents\luma\bin\Debug\net8.0\luma.runtimeconfig.json
+C:\Users\raijo\Documents\luma\bin\Debug\net8.0\luma.dll
+C:\Users\raijo\Documents\luma\bin\Debug\net8.0\luma.pdb
+C:\Users\raijo\Documents\luma\obj\Debug\net8.0\luma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raijo\Documents\luma\obj\Debug\net8.0\luma.AssemblyInfoInputs.cache
+C:\Users\raijo\Documents\luma\obj\Debug\net8.0\luma.AssemblyInfo.cs
+C:\Users\raijo\Documents\luma\obj\Debug\net8.0\luma.csproj.CoreCompileInputs.cache
+C:\Users\raijo\Documents\luma\obj\Debug\net8.0\luma.dll
+C:\Users\raijo\Documents\luma\obj\Debug\net8.0\refint\luma.dll
+C:\Users\raijo\Documents\luma\obj\Debug\net8.0\luma.pdb
+C:\Users\raijo\Documents\luma\obj\Debug\net8.0\luma.genruntimeconfig.cache
+C:\Users\raijo\Documents\luma\obj\Debug\net8.0\ref\luma.dll
+C:\Users\raijo\Documents\luma\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\raijo\Documents\luma\obj\Debug\net8.0\luma.csproj.AssemblyReference.cache
+C:\Users\raijo\Documents\luma\obj\Debug\net8.0\luma.csproj.CopyComplete

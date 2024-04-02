@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q0ev+WXqjA1oGwCC7xtqVHMaMnYb8S3kiIQnC/aq6YyKnMUX7cltOubOlD+FesJmgZkxKMINlmjIm/YiVcjQXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raijo\\Documents\\luma\\luma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raijo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
